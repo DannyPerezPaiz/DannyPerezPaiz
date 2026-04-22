@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D0387&amp;height=220&amp;section=header&amp;text=Danny%20Perez%20Paiz&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20%26%20Mathematics%20%40%20SFSU%20-%20Software%20Engineering%20-%20Databases%20-%20AI%20-%20Full%20Stack%20-%20Education&amp;descAlignY=60&amp;descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D0387&height=220&section=header&text=Danny%20Perez%20Paiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20and%20Mathematics%20at%20SFSU%20-%20Software%20Engineering%20-%20Databases%20-%20AI%20-%20Full%20Stack%20-%20Education&descAlignY=60&descSize=16" />
 </p>
 
 # Hi, I'm Danny 👋
@@ -12,6 +12,7 @@ I enjoy building useful software, solving technical problems, and creating proje
 ## 🛠 Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
@@ -21,6 +22,7 @@ I enjoy building useful software, solving technical problems, and creating proje
 ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
 
 ### Frameworks / Tools
+
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
@@ -34,12 +36,15 @@ I enjoy building useful software, solving technical problems, and creating proje
 ## 🚀 Featured Projects
 
 ### 🎮 UNO Web Game
+
 Real-time multiplayer UNO web app with bots, live chat, sessions, and dynamic gameplay.
 
 ### 💾 Custom File System
+
 C-based file system supporting directory navigation, storage management, and file I/O.
 
 ### 🗄 Multimedia Database System
+
 Relational database platform built with schema design, SQL logic, triggers, and optimization.
 
 ---
