@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D0387&height=220&section=header&text=Danny%20Perez%20Paiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20@%20SFSU%20|%20Software%20Engineering%20•%20Databases%20•%20AI%20•%20Full%20Stack%20•%20Education&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D0387&height=220&section=header&text=Danny%20Perez%20Paiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Mathematics%20@%20SFSU%20|%20Software%20Engineering%20•%20Databases%20•%20AI%20•%20Full%20Stack%20•%20Education&descAlignY=60&descSize=16" />
 </p>
 
 # Hi, I'm Danny 👋
@@ -48,9 +48,9 @@ Relational database platform built with schema design, SQL logic, triggers, and 
 
 - 🎓 Senior graduating Spring 2026
 - 📚 Minor in Mathematics
-- 💡 Interested in Software Engineering, AI, and Data
+- 💡 Interested in Software Engineering, Education, Game Developement, AI, and Data
 - 👨‍🏫 Lead Facilitator at SF Math Circle
-- 🌎 Fluent in Spanish
+- 🌎 Fluent in Spanish, learning ASL
 - 🤝 Enjoy mentoring and teaching others
 
 ---
