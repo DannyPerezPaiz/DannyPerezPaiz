@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D0387&height=220&section=header&text=Danny%20Perez%20Paiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Mathematics%20@%20SFSU%20-%20Software%20Engineering%20-%20Databases%20-%20AI%20-%20Full%20Stack%20-%20Education&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6D0387&amp;height=220&amp;section=header&amp;text=Danny%20Perez%20Paiz&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20%26%20Mathematics%20%40%20SFSU%20-%20Software%20Engineering%20-%20Databases%20-%20AI%20-%20Full%20Stack%20-%20Education&amp;descAlignY=60&amp;descSize=16" />
 </p>
 
 # Hi, I'm Danny 👋
